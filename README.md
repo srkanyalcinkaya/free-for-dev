@@ -150,7 +150,7 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
     * Log Analysis - Günlük günlük 500MB
     * Tam, ayrıntılı liste - https://www.ibm.com/cloud/free/
 
-**[⬆ başa dön](#içindekiler)**
+**[⬆ başa dön](#icindekiler)**
 
 ## Bulut yönetimi çözümleri
   * [Brainboard](https://www.brainboard.co) - Bulut altyapılarını uçtan uca görsel olarak oluşturmak ve yönetmek için işbirliğine dayalı çözüm.
