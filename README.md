@@ -150,14 +150,14 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
     * Log Analysis - Günlük günlük 500MB
     * Tam, ayrıntılı liste - https://www.ibm.com/cloud/free/
 
-**[⬆ başa dön](#icindekiler)**
+**[⬆ başa dön](#içindekiler)**
 
 ## Bulut yönetimi çözümleri
   * [Brainboard](https://www.brainboard.co) - Bulut altyapılarını uçtan uca görsel olarak oluşturmak ve yönetmek için işbirliğine dayalı çözüm.
   * [Pulumi](https://www.pulumi.com/) — Bulut altyapısını oluşturmak, dağıtmak ve yönetmek için tanıdık programlama dillerini ve araçlarını kullanmanıza olanak tanıyan kod platformu olarak modern altyapı.
   * [terraform.io](https://www.terraform.io/) — Terraform Bulutu. 5 Kullanıcıya kadar olan ekipler için ücretsiz uzaktan durum yönetimi ve ekip işbirliği.
 
-**[⬆ başa dön](#table-of-contents)**
+**[⬆ başa dön](#içindekiler)**
 
 ## Kaynak Kodu Deposu
 
