@@ -1,92 +1,92 @@
-# free-for.dev
+# free-for.dev Türkçe
 
-Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
+Geliştiriciler ve Açık Kaynak yazarları artık ücretsiz katmanlar sunan çok sayıda hizmete sahip, ancak bilinçli kararlar vermek için hepsini bulmak zor olabilir.
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+Bu, geliştiriciler için ücretsiz katmanlara sahip yazılımların (SaaS, PaaS, IaaS vb.) ve diğer tekliflerin bir listesidir.
 
-The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
+Bu özel listenin kapsamı, altyapı geliştiricilerinin (Sistem Yöneticisi, DevOps Uygulayıcıları vb.) yararlı bulabileceği şeylerle sınırlıdır. Dışarıdaki tüm ücretsiz hizmetleri seviyoruz, ancak konuyu gündemde tutmak iyi olur. Bazen biraz gri bir çizgi var, bu yüzden bu biraz inatçı; katkınızı kabul etmezsem gücenmeyin.
 
-This list is the result of Pull Requests, reviews, ideas and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
+Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemeler, fikirler ve çalışmaların sonucudur. Siz de daha fazla hizmet eklemek için [Çekme İstekleri](https://github.com/ripienaar/free-for-dev) göndererek veya teklifleri değişen veya kullanımdan kaldırılanları kaldırarak yardımcı olabilirsiniz.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
-**NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
+**NOT**: Bu liste yalnızca Hizmet olarak sunulanlar içindir, kendi kendine barındırılan yazılımlar için değildir. Bir hizmetin uygun olması için yalnızca ücretsiz bir deneme değil, ücretsiz bir katman sunması gerekir. Ücretsiz kullanım süresi sınırlıysa, en az bir yıl sürmelidir. Ücretsiz katmanı güvenlik açısından da değerlendiriyoruz, bu nedenle TOA iyidir ancak TLS'yi yalnızca ücretli katmanlarla sınırlayan hizmetleri kabul etmeyeceğim.
 
-Table of Contents
+İçindekiler
 =================
 
-   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
-   * [Cloud management solutions](#cloud-management-solutions)
-   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
-   * [APIs, Data and ML](#apis-data-and-ml)
-   * [Artifact Repos](#artifact-repos)
+   * [Büyük Bulut Sağlayıcıların Her Zaman Ücretsiz Limitleri](#major-cloud-providers)
+   * [Bulut yönetimi çözümleri](#cloud-management-solutions)
+   * [Analitik, Etkinlikler ve İstatistikler](#analytics-events-and-statistics)
+   * [API'ler, Data and ML](#apis-data-and-ml)
+   * [Artifact Deposu](#artifact-repos)
    * [BaaS](#baas)
-   * [CDN and Protection](#cdn-and-protection)
-   * [CI and CD](#ci-and-cd)
+   * [CDN ve Koruma](#cdn-and-protection)
+   * [CI ve CD](#ci-and-cd)
    * [CMS](#cms)
-   * [Code Quality](#code-quality)
-   * [Code Search and Browsing](#code-search-and-browsing)
-   * [Crash and Exception Handling](#crash-and-exception-handling)
-   * [Data Visualization on Maps](#data-visualization-on-maps)
+   * [Kod Kalitesi](#code-quality)
+   * [Kod Arama ve Tarama](#code-search-and-browsing)
+   * [Kilitlenme ve Özel Durum İşleme](#crash-and-exception-handling)
+   * [Haritalarda Veri Görselleştirme](#data-visualization-on-maps)
    * [DBaaS](#dbaas)
-   * [Design and UI](#design-and-ui)
-   * [Design Inspiration](#design-inspiration)
-   * [Dev Blogging Sites](#dev-blogging-sites)
+   * [Tasarım ve UI](#design-and-ui)
+   * [Tasarım İlhamı](#design-inspiration)
+   * [Geliştici Blog Siteleri](#dev-blogging-sites)
    * [DNS](#dns)
-   * [Docker Related](#docker-related)
+   * [Docker ile İlgili](#docker-related)
    * [Domain](#domain)
    * [Email](#email)
    * [Font](#font)
-   * [Forms](#forms)
+   * [Formlar](#forms)
    * [IaaS](#iaas)
-   * [IDE and Code Editing](#ide-and-code-editing)
-   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
-   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
-   * [Log Management](#log-management)
-   * [Management Systems](#management-system)
-   * [Messaging and Streaming](#messaging-and-streaming)
-   * [Miscellaneous](#miscellaneous)
-   * [Monitoring](#monitoring)
+   * [IDE ve Kod Düzenleme](#ide-and-code-editing)
+   * [Uluslararası Cep Telefonu Numarası Doğrulama API ve SDK](#international-mobile-number-verification-api-and-sdk)
+   * [Sorun Takibi ve Proje Yönetimi](#issue-tracking-and-project-management)
+   * [Log Yönetimi](#log-management)
+   * [Yönetim Sistemleri](#management-system)
+   * [Mesajlaşma ve Akış](#messaging-and-streaming)
+   * [Miscellaneous(Çeşitli)](#miscellaneous)
+   * [Gözlem](#monitoring)
    * [PaaS](#paas)
-   * [Package Build System](#package-build-system)
-   * [Payment and Billing Integration](#payment-and-billing-integration)
-   * [Privacy Management](#privacy-management)
-   * [Screenshot APIs](#screenshot-apis)
-   * [Flutter Related and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)
-   * [Search](#search)
-   * [Security and PKI](#security-and-pki)
-   * [Source Code Repos](#source-code-repos)
-   * [Storage and Media Processing](#storage-and-media-processing)
-   * [Tunneling, WebRTC, Web Socket Servers and Other Routers](#tunneling-webrtc-web-socket-servers-and-other-routers)
-   * [Testing](#testing)
-   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
-   * [Vagrant Related](#vagrant-related)
-   * [Visitor Session Recording](#visitor-session-recording)
-   * [Web Hosting](#web-hosting)
-   * [Commenting Platforms](#commenting-platforms)
-   * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
-   * [Remote Desktop Tools](#remote-desktop-tools)
-   * [Game Development](#game-development)
-   * [Other Free Resources](#other-free-resources)
+   * [Paket Oluşturma Sistemi](#package-build-system)
+   * [Ödeme ve Fatura Entegrasyonu](#payment-and-billing-integration)
+   * [Gizlilik Yönetimi](#privacy-management)
+   * [Ekran görüntüsü API'leri](#screenshot-apis)
+   * [Flutter ile İlgili ve Mac'siz İOS Uygulamaları Oluşturma](#flutter-related-and-building-ios-apps-without-mac)
+   * [Arama](#search)
+   * [Güvenlik and PKI](#security-and-pki)
+   * [Kaynak Kod Deposu](#source-code-repos)
+   * [Depolama ve Ortam İşleme](#storage-and-media-processing)
+   * [Tünel Oluşturma, WebRTC, WebSocket Sunucuları ve Diğer Yönlendiriciler](#tunneling-webrtc-web-socket-servers-and-other-routers)
+   * [Deneme](#testing)
+   * [Ekipler ve İşbirliği için Araçlar](#tools-for-teams-and-collaboration)
+   * [Çeviri Yönetimi](#translation-management)
+   * [Vagrant ile İlgili](#vagrant-related)
+   * [Ziyaretçi Oturum Kaydı](#visitor-session-recording)
+   * [Web Hosting(Web Barındırma)](#web-hosting)
+   * [Yorum Platformları](#commenting-platforms)
+   * [Tarayıcı tabanlı donanım öykünmesi](#browser-based-hardware-emulation-written-in-javascript)
+   * [Uzak Masaüstü Araçları](#remote-desktop-tools)
+   * [Oyun Geliştirme](#game-development)
+   * [Diğer Ücretsiz Kaynaklar](#other-free-resources)
 
-## Major Cloud Providers
+## Büyük Bulut Sağlayıcıları
 
-  * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
-    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    * Cloud Storage - 5GB, 1GB network egress
-    * Cloud Shell - Web-based Linux shell/basic IDE with 5GB of persistent storage. 60 hours limit per week
-    * Cloud Pub/Sub - 10GB of messages per month
-    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    * Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    * Cloud Build - 120 build-minutes per day
-    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * [Google Collab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    * Full, detailed list - https://cloud.google.com/free
+  * [Google Cloud Platformu](https://cloud.google.com)
+    * App Engine - günde 28 frontend örnek saati, günde 9 backend örnek saati
+    * Cloud Firestore - 1GB depolama, 50.000 okuma, 20.000 yazma, günde 20.000 silme
+    * Hesaplama Motoru - 1 adet önlenebilir olmayan e2-micro, 30GB HDD, 5GB anlık görüntü depolama (belirli bölgelerle sınırlı), Kuzey Amerika'dan aylık tüm bölge hedeflerine (Çin ve Avustralya hariç) 1 GB ağ çıkışı
+    * Bulut Depolama - 5GB, 1GB ağ çıkışı
+    * Bulut Kabuğu - 5GB kalıcı depolama alanına sahip Web tabanlı Linux kabuğu / temel IDE. haftada 60 saat sınırı
+    * Cloud Pub / Ayda 10 GB altı mesaj
+    * Bulut İşlevleri - ayda 2 milyon çağırma (hem arka plan hem de HTTP çağrılarını içerir)
+    * Bulut Çalıştırma - ayda 2 milyon istek, 360.000 GB saniyelik bellek, 180.000 vCPU saniyelik işlem süresi, ayda Kuzey Amerika'dan 1 GB ağ çıkışı
+    * Google Kubernetes Motoru - Bir bölge kümesi için küme yönetimi ücreti alınmaz. Her kullanıcı düğümü standart Hesaplama Motoru fiyatlandırması üzerinden ücretlendirilir
+    * BigQuery - ayda 1 TB sorgulama, her ay 10 GB depolama alanı
+    * Bulut Oluşturma - günde 120 oluşturma-dakika
+    * Bulut Kaynak Depoları - 5 Kullanıcıya kadar, 50 GB Depolama Alanı, 50 GB Çıkış
+    * [Google Collab](https://colab.research.google.com /) - Ücretsiz Jupyter Dizüstü geliştirme ortamı.
+    * Tam, ayrıntılı liste - https://cloud.google.com/free
 
 
   * [Amazon Web Services](https://aws.amazon.com)
