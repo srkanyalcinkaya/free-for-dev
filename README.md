@@ -94,7 +94,7 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
     * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 özel ölçüm ve 10 alarm
     * [CodeBuild](https://aws.amazon.com/codebuild/) - Ayda 100 dk yapım süresi
     * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 aktif kullanıcı,50GB depolama ve aylık 10000 tane sorgu
-    * [CodePipeline](https://aws.amazon.com/codepipeline/) - ayda 1 aktif boru hattı
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - Ayda 1 aktif boru hattı
     * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
     * [EC2](https://aws.amazon.com/ec2/) - Ayda 750 saat t2.mikro veya t3.mikro (12mo)
     * [EBS](https://aws.amazon.com/ebs/) - Ayda 30GB Genel Amaçlı (SSD) veya Manyetik (12mo)
@@ -108,58 +108,58 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
 
   * [Microsoft Azure](https://azure.microsoft.com)
     * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
-    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day)
-    * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
-    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
+    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobil yada API uygulamalar (60 CPU dakika / gün)
+    * [Functions](https://azure.microsoft.com/services/functions/) - Ayda  1 milyon sorgu
+    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Hızlı, kolay ve yalın geliştirme testi ortamlarını etkinleştirin
     * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
-    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users
-    * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
-    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
-    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
-    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
-    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
-    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
-    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
-    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
-    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
-    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
-    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
-    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
-    * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
-    * Full, detailed list - https://azure.microsoft.com/free/
+    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - Aylık 50.000 kayıtlı kullanıcı
+    * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 aktif kullanıcı, sınırsız özel Git repoları
+    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — Linux, macOS ve Windows için açık kaynak için sınırsız dakika ile 10 ücretsiz paralel iş
+    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - Günlük 8,000 mesaj
+    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 ücretsiz genel yük dengeli IP (VIP)
+    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 milyon push bildirimi
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - Ayda 15GB Gelen (12mo) ve 5GB çıkış
+    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB depolama alanı ve 400 RUs sağlanan aktarım hızı
+    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Ücretsiz SSL, Kimlik Doğrulama / Yetkilendirme ve özel alan adlarıyla statik uygulamalar ve sunucusuz işlevler oluşturun, dağıtın ve barındırın
+    * [Storage](https://azure.microsoft.com/services/storage/) - 5 GB LRS Dosya veya Blob depolama (12mo)
+    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI / ML API'leri (Bilgisayar Görüşü, Çevirmen, Yüz algılama, Botlar...) sınırlı işlemler de dahil olmak üzere ücretsiz kademe ile
+    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - Yapay zeka tabanlı arama ve indeksleme hizmeti, 10.000 belge için ücretsiz
+    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Yönetilen Kubernetes hizmeti, ücretsiz küme yönetimi
+    * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K operasyon / ay
+    * Tam, ayrıntılı liste - https://azure.microsoft.com/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
-    * Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    * Block Volume - 4 volumes, 200 GB total (used for compute)
+    * Compute -  her biri 1 GB RAM'e sahip 2 x64 tabanlı, 4 Arm tabanlı Amper A 1 çekirdekli ve bir sanal makine olarak veya 4 Sanal makineye kadar kullanılabilen 24 GB bellek
+    * Block Volume - 4 hacim, toplam 200 GB (hesaplama için kullanılır)
     * Object Storage - 10 GB
-    * Load balancer - 1 instance with 10 Mbps
-    * Databases - 2 DBs, 20 GB each
-    * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-    * Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64 based VM, 500 Mbps * core count on ARM based VM
-    * Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer
-    * Notifications - 1 million delivery options per month, 1000 emails sent per month
-    * Full, detailed list - https://www.oracle.com/cloud/free/
+    * Load balancer - 10 Mbps'lik 1 örnek
+    * Databases - 2 DBs, her biri 20 GB
+    * Monitoring - 500 milyon alım veri noktası, 1 milyar alım veri noktası
+    * Bandwidth - Ayda 10 TB çıkış, x64 tabanlı sanal makinede 50 Mbps ile sınırlı hız, ARM tabanlı sanal makinede 500 Mbps * çekirdek sayısı
+    * Public IP - Sanal makineler için 2 IPv4, yük dengeleyici için 1 IPv4
+    * Notifications - Ayda 1 milyon teslimat seçeneği, ayda 1000 e-posta gönderildi
+    * Tam, ayrıntılı liste - https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    * Cloud Functions - 5 million executions per month
-    * Object Storage - 25GB per month
-    * Cloudant database - 1 GB of data storage
-    * Db2 database - 100MB of data storage
-    * API Connect - 50,000 API calls per month
-    * Availability Monitoring - 3 million data points per month
-    * Log Analysis - 500MB of daily log
-    * Full, detailed list - https://www.ibm.com/cloud/free/
+    * Cloud Functions - Ayda 5 milyon uygulama
+    * Object Storage - Ayda 25GB
+    * Cloudant database - 1 GB veri depolama alanı
+    * Db2 database - 100MB veri depolama
+    * API Connect - Ayda 50.000 API çağrısı
+    * Availability Monitoring - Ayda 3 milyon veri noktası
+    * Log Analysis - Günlük günlük 500MB
+    * Tam, ayrıntılı liste - https://www.ibm.com/cloud/free/
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ başa dön](#table-of-contents)**
 
-## Cloud management solutions
-  * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
-  * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
-  * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+## Bulut yönetimi çözümleri
+  * [Brainboard](https://www.brainboard.co) - Bulut altyapılarını uçtan uca görsel olarak oluşturmak ve yönetmek için işbirliğine dayalı çözüm.
+  * [Pulumi](https://www.pulumi.com/) — Bulut altyapısını oluşturmak, dağıtmak ve yönetmek için tanıdık programlama dillerini ve araçlarını kullanmanıza olanak tanıyan kod platformu olarak modern altyapı.
+  * [terraform.io](https://www.terraform.io/) — Terraform Bulutu. 5 Kullanıcıya kadar olan ekipler için ücretsiz uzaktan durum yönetimi ve ekip işbirliği.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ başa dön](#table-of-contents)**
 
-## Source Code Repos
+## Kaynak Kodu Deposu
 
   * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
