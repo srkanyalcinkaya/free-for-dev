@@ -190,7 +190,7 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#içindekiler)**
 
 ## APIs, Data and ML
 
