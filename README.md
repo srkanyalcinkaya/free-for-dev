@@ -90,21 +90,21 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
 
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
-    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
-    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
-    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - Ayda 1 TB çıkış
+    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 özel ölçüm ve 10 alarm
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - Ayda 100 dk yapım süresi
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 aktif kullanıcı,50GB depolama ve aylık 10000 tane sorgu
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - ayda 1 aktif boru hattı
     * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo)
-    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
-    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
-    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
-    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
-    * [SES](https://aws.amazon.com/ses/) - 62.000 messages per month
-    * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
-    * Full, detailed list - https://aws.amazon.com/free/
+    * [EC2](https://aws.amazon.com/ec2/) - Ayda 750 saat t2.mikro veya t3.mikro (12mo)
+    * [EBS](https://aws.amazon.com/ebs/) - Ayda 30GB Genel Amaçlı (SSD) veya Manyetik (12mo)
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - Ayda 750 saat (12 ay)
+    * [Glacier](https://aws.amazon.com/glacier) - 10GB uzun süreli nesne depolama
+    * [Lambda](https://aws.amazon.com/lambda/) - Ayda  1 milyon sorgu
+    * [SNS](https://aws.amazon.com/sns/) - Ayda 1 milyon yayın
+    * [SES](https://aws.amazon.com/ses/) - Ayda 62.000 mesaj
+    * [SQS](https://aws.amazon.com/sqs/) - 1 milyon ileti kuyruğu isteği
+    * Tam, ayrıntılı liste - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
     * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
