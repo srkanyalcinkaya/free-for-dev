@@ -15,7 +15,7 @@ Bu liste, 1100'den fazla kişi tarafından yapılan Çekme İstekleri, incelemel
 İçindekiler
 =================
 
-   * [Büyük Bulut Sağlayıcıların Her Zaman Ücretsiz Limitleri](#major-cloud-providers)
+   * [Büyük Bulut Sağlayıcıların Her Zaman Ücretsiz Limitleri](#büyük-bulut-sağlayıcıları)
    * [Bulut yönetimi çözümleri](#cloud-management-solutions)
    * [Analitik, Etkinlikler ve İstatistikler](#analytics-events-and-statistics)
    * [API'ler, Data and ML](#apis-data-and-ml)
